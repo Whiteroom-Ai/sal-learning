@@ -153,8 +153,8 @@ pip install sal-learning
 Or from source:
 
 ```bash
-git clone https://github.com/Whiteroom-Ai/Self-Alignment-Learning.git
-cd Self-Alignment-Learning
+git clone https://github.com/Whiteroom-Ai/sal-learning.git
+cd sal-learning
 pip install -e .
 ```
 

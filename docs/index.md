@@ -28,7 +28,7 @@ Visual explanations of SAL concepts.
 
 ## Quick Links
 
-- [GitHub Repository](https://github.com/Whiteroom-Ai/Self-Alignment-Learning)
+- [GitHub Repository](https://github.com/Whiteroom-Ai/sal-learning)
 - [Research Paper (Zenodo)](https://zenodo.org/records/17772044)
 - [Emergenzwerke Website](https://emergenzwerke.de)
 

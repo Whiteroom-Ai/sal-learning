@@ -60,8 +60,8 @@ viz = [
 
 [project.urls]
 Homepage = "https://emergenzwerke.de"
-Documentation = "https://github.com/Whiteroom-Ai/Self-Alignment-Learning"
-Repository = "https://github.com/Whiteroom-Ai/Self-Alignment-Learning"
+Documentation = "https://github.com/Whiteroom-Ai/sal-learning"
+Repository = "https://github.com/Whiteroom-Ai/sal-learning"
 Paper = "https://zenodo.org/records/17772044"
 
 [tool.setuptools.packages.find]

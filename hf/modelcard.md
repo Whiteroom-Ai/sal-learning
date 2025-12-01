@@ -113,7 +113,7 @@ pip install sal-learning
 ## Links
 
 - 📄 [Paper (Zenodo)](https://zenodo.org/records/17772044)
-- 💻 [GitHub](https://github.com/Whiteroom-Ai/Self-Alignment-Learning)
+- 💻 [GitHub](https://github.com/Whiteroom-Ai/sal-learning)
 - 🌐 [Website](https://emergenzwerke.de)
 
 ---
