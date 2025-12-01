@@ -1,0 +1,10 @@
+{"id": "field_001", "coherence": 0.12, "novelty": 0.95, "resonance": 0.08, "classification": "chaos", "description": "High novelty but no coherence - random noise"}
+{"id": "field_002", "coherence": 0.94, "novelty": 0.11, "resonance": 0.91, "classification": "stable_core", "description": "High coherence, low novelty - established pattern"}
+{"id": "field_003", "coherence": 0.78, "novelty": 0.72, "resonance": 0.65, "classification": "emergent", "description": "High coherence AND novelty - genuine emergence"}
+{"id": "field_004", "coherence": 0.45, "novelty": 0.48, "resonance": 0.52, "classification": "neutral", "description": "Middle of spectrum - adaptive zone"}
+{"id": "field_005", "coherence": 0.88, "novelty": 0.55, "resonance": 0.79, "classification": "crystallizing", "description": "Novel pattern becoming stable"}
+{"id": "field_006", "coherence": 0.33, "novelty": 0.21, "resonance": 0.44, "classification": "decaying", "description": "Pattern losing coherence"}
+{"id": "field_007", "coherence": 0.91, "novelty": 0.82, "resonance": 0.73, "classification": "breakthrough", "description": "Strong emergence - protect immediately"}
+{"id": "field_008", "coherence": 0.67, "novelty": 0.89, "resonance": 0.34, "classification": "exploratory", "description": "Novel but not yet integrated"}
+{"id": "field_009", "coherence": 0.82, "novelty": 0.38, "resonance": 0.88, "classification": "consolidated", "description": "Well-integrated stable pattern"}
+{"id": "field_010", "coherence": 0.55, "novelty": 0.62, "resonance": 0.58, "classification": "forming", "description": "Pattern in formation - observe"}

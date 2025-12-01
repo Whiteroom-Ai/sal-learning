@@ -1,0 +1,10 @@
+{"id": "contrast_001", "scenario": "stable_parameter_update", "method": "standard", "action": "full_gradient_applied", "result": "pattern_overwritten", "coherence_delta": -0.35}
+{"id": "contrast_002", "scenario": "stable_parameter_update", "method": "SAL", "action": "gradient_scaled_to_0.15", "result": "pattern_preserved", "coherence_delta": -0.02}
+{"id": "contrast_003", "scenario": "new_task_learning", "method": "standard", "action": "all_parameters_updated", "result": "catastrophic_forgetting", "old_task_accuracy": 0.23}
+{"id": "contrast_004", "scenario": "new_task_learning", "method": "SAL", "action": "volatile_updated_protected_preserved", "result": "continual_learning", "old_task_accuracy": 0.87}
+{"id": "contrast_005", "scenario": "long_training", "method": "standard", "action": "continuous_updates", "result": "drift_accumulation", "final_drift": 0.78}
+{"id": "contrast_006", "scenario": "long_training", "method": "SAL", "action": "stability_aware_updates", "result": "drift_controlled", "final_drift": 0.19}
+{"id": "contrast_007", "scenario": "emergence_detection", "method": "reward_based", "action": "score_and_rank", "measurement": "external_reward", "bias": "reward_hacking_possible"}
+{"id": "contrast_008", "scenario": "emergence_detection", "method": "SAL", "action": "observe_coherence_novelty", "measurement": "internal_stability", "bias": "none"}
+{"id": "contrast_009", "scenario": "parameter_protection", "method": "freezing", "action": "binary_freeze", "flexibility": "none", "granularity": "layer"}
+{"id": "contrast_010", "scenario": "parameter_protection", "method": "SAL", "action": "soft_protection", "flexibility": "continuous", "granularity": "parameter"}

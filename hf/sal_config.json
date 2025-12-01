@@ -1,0 +1,74 @@
+{
+  "framework": "SAL",
+  "version": "1.0.0",
+  "name": "Self-Alignment Learning",
+  "description": "Communication-Based AI Growth",
+  
+  "paradigm": {
+    "type": "communication_based",
+    "approach": "stability_preservation",
+    "optimization": "none",
+    "rewards": "none",
+    "human_feedback": "none"
+  },
+  
+  "components": {
+    "communication_layer": {
+      "enabled": true,
+      "threshold": 0.5,
+      "threshold_adaptation": 0.1,
+      "soft_protection": true
+    },
+    "stability_analyzer": {
+      "enabled": true,
+      "protected_threshold": 0.7,
+      "volatile_threshold": 0.3,
+      "history_length": 100
+    },
+    "emergence_field": {
+      "enabled": true,
+      "coherence_threshold": 0.6,
+      "novelty_threshold": 0.4,
+      "dimensions": 768
+    },
+    "pulse_cascade": {
+      "enabled": false,
+      "max_pulses": 32,
+      "max_generations": 10
+    }
+  },
+  
+  "defaults": {
+    "stability_spectrum": {
+      "protected_target": 0.12,
+      "neutral_target": 0.71,
+      "volatile_target": 0.17
+    }
+  },
+  
+  "compatibility": {
+    "pytorch": ">=1.9.0",
+    "python": ">=3.8"
+  },
+  
+  "metadata": {
+    "author": "Aaron Liam Lee",
+    "organization": "Emergenzwerke",
+    "license": "MIT",
+    "paper": "https://zenodo.org/records/17772044",
+    "repository": "https://github.com/Whiteroom-Ai/Self-Alignment-Learning",
+    "website": "https://emergenzwerke.de"
+  },
+  
+  "terminology": {
+    "note": "SAL uses specific terminology to distinguish from RLHF/Safety paradigms",
+    "mapping": {
+      "reward": "NOT_USED",
+      "loss": "drift_amount",
+      "policy": "lineage",
+      "human_feedback": "NOT_USED",
+      "alignment": "coherence",
+      "safety": "stability"
+    }
+  }
+}

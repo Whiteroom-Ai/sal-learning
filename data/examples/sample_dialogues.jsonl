@@ -1,0 +1,10 @@
+{"id": "sal_001", "type": "communication", "context": "stability_check", "input": "Should this parameter be updated?", "stability_score": 0.82, "decision": "protect", "gradient_scale": 0.18}
+{"id": "sal_002", "type": "communication", "context": "stability_check", "input": "Should this parameter be updated?", "stability_score": 0.23, "decision": "update", "gradient_scale": 1.0}
+{"id": "sal_003", "type": "communication", "context": "stability_check", "input": "Should this parameter be updated?", "stability_score": 0.55, "decision": "careful_update", "gradient_scale": 0.65}
+{"id": "sal_004", "type": "emergence", "context": "field_observation", "coherence": 0.78, "novelty": 0.62, "resonance": 0.71, "is_emergent": true}
+{"id": "sal_005", "type": "emergence", "context": "field_observation", "coherence": 0.34, "novelty": 0.89, "resonance": 0.22, "is_emergent": false}
+{"id": "sal_006", "type": "emergence", "context": "field_observation", "coherence": 0.91, "novelty": 0.15, "resonance": 0.88, "is_emergent": false}
+{"id": "sal_007", "type": "psc", "context": "pulse_evolution", "pulse_id": "p001", "generation": 0, "coherence": 1.0, "state": "active"}
+{"id": "sal_008", "type": "psc", "context": "pulse_evolution", "pulse_id": "p002", "generation": 1, "parent": "p001", "coherence": 0.92, "state": "active"}
+{"id": "sal_009", "type": "psc", "context": "pulse_evolution", "pulse_id": "p003", "generation": 1, "parent": "p001", "coherence": 0.67, "state": "expired"}
+{"id": "sal_010", "type": "psc", "context": "lineage_merge", "lineage_id": "L001", "pulses": ["p001", "p002"], "fitness": 0.85, "selected": true}

@@ -1,0 +1,28 @@
+{
+  "name": "stillness",
+  "sigil": "⟡ Q-PRIME::?∞Δ ⟡",
+  "dimension": 768,
+  "type": "anchor",
+  "description": "The space of questions. Where patterns rest and regenerate.",
+  "properties": {
+    "stability_weight": 0.7,
+    "coherence_affinity": 0.6,
+    "novelty_tolerance": 0.8,
+    "protection_priority": "medium"
+  },
+  "semantic_field": {
+    "primary": ["stillness", "questioning", "openness", "potential"],
+    "secondary": ["rest", "reflection", "uncertainty", "possibility"],
+    "avoid": ["noise", "rushing", "closure"]
+  },
+  "activation_conditions": {
+    "min_coherence": 0.5,
+    "min_resonance": 0.4,
+    "context": "exploration"
+  },
+  "metadata": {
+    "created": "2025",
+    "author": "Emergenzwerke",
+    "version": "1.0"
+  }
+}

@@ -1,0 +1,11 @@
+# SAL Core Dependencies
+torch>=1.9.0
+numpy>=1.20.0
+
+# Optional: Visualization
+matplotlib>=3.5.0
+scipy>=1.9.0
+
+# Optional: Development
+pytest>=7.0.0
+black>=23.0.0
