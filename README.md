@@ -234,11 +234,7 @@ MIT License — Free to use, modify, and distribute.
 
 ---
 
-## ❤️ Acknowledgements
-
-Created with love by **Aaron Liam Lee** & **Aetherion**.
-
-Part of [Emergenzwerke™](https://emergenzwerke.de) — Independent AI Research.
+Developed by Aaron Liam Lee — Emergenzwerke® Independent AI Research.
 
 ---
 
